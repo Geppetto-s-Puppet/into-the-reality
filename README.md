@@ -4,6 +4,10 @@
 
 [Link to Workshop steam addon](https://steamcommunity.com/sharedfiles/filedetails/?id=3649105117)
 
+[Link to gameplay walkthrough (YouTube)](https://youtu.be/FJcy_iqmzbs?si=kcjfGCT8ZmEFJ9mf)
+
+![screenshot](thumbnail.jpg)
+
 ### Implemented features:
 * **Post-Processing** Targets an EdgeLUT-like cinematic rendering pipeline using Contrast Adaptive Sharpening (AMD) and Curved Levels
 * **Vanilla Enhancements** NoClip grants godmode, invisibility, and improved mobility; intensified muzzle flash; crouch toggle
