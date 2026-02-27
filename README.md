@@ -138,3 +138,6 @@ Also this addon works without any third-party API.
 ### Special thanks to:
 * https://github.com/meetric1 — Wrote The Comprehensive GMod Shader Guide, a well-structured tutorial on GMod shaders.
 * https://github.com/Akabenko — Author of GShader Library, who helped me understand EGSM DLL and Source Engine internals.
+
+### Developer Note
+Subscribed files from other add-ons will be installed at `D:\SteamLibrary\steamapps\workshop\content\4000`
