@@ -1,3 +1,10 @@
+.gitattributes export-ignore
+thumbnail.jpg export-ignore
+README.md export-ignore
+LICENSE export-ignore
+
+shaders/bodycam2_ps2x.hlsl export-ignore
+
 shaders/ShaderCompile.exe export-ignore
 shaders/build_single_shader.bat export-ignore
 
