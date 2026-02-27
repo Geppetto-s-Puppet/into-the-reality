@@ -1,0 +1,8 @@
+shaders/ShaderCompile.exe export-ignore
+shaders/build_single_shader.bat export-ignore
+
+shaders/common_fxc.h export-ignore
+shaders/common_ps_fxc.h export-ignore
+shaders/common_vs_fxc.h export-ignore
+shaders/common_pragmas.h export-ignore
+shaders/common_hlsl_cpp_consts.h export-ignore
